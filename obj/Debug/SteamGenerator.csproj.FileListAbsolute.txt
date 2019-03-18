@@ -1,0 +1,10 @@
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\bin\Debug\SteamGenerator.exe.config
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\bin\Debug\SteamGenerator.exe
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\bin\Debug\SteamGenerator.pdb
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\obj\Debug\SteamGenerator.csprojAssemblyReference.cache
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\obj\Debug\SteamGenerator.Form1.resources
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\obj\Debug\SteamGenerator.Properties.Resources.resources
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\obj\Debug\SteamGenerator.csproj.GenerateResource.cache
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\obj\Debug\SteamGenerator.csproj.CoreCompileInputs.cache
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\obj\Debug\SteamGenerator.exe
+E:\VisualStudio\projects\SteamGenerator\SteamGenerator\obj\Debug\SteamGenerator.pdb
